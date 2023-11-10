@@ -1,6 +1,5 @@
-import React from "react";
-import Button from "../Base/Button";
 import styles from "../../style";
+import Button from "../Base/Button";
 
 const CTA = () => {
   return (

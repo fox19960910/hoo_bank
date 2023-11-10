@@ -1,15 +1,14 @@
-import React from "react";
-import styles from "./style";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Stats from "./components/Stats";
-import Business from "./components/Business";
 import Billing from "./components/Billing";
-import CardDeal from "./components/CardDeal";
-import Testimonials from "./components/Testimonials";
-import Clients from "./components/Clients";
+import Business from "./components/Business";
 import CTA from "./components/CTA";
+import CardDeal from "./components/CardDeal";
+import Clients from "./components/Clients";
 import Footer from "./components/Footer";
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+import Stats from "./components/Stats";
+import Testimonials from "./components/Testimonials";
+import styles from "./style";
 
 const App = () => {
   return (

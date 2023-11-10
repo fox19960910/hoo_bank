@@ -1,8 +1,7 @@
-import React from "react";
-import Layout from "../Base/Layout";
+import { features } from "../../constants";
 import styles, { layout } from "../../style";
 import Button from "../Base/Button";
-import { features } from "../../constants";
+import Layout from "../Base/Layout";
 import FeatureCard from "./FeatureCard";
 
 const Business = () => {

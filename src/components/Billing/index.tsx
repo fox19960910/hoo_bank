@@ -1,7 +1,6 @@
-import React from "react";
-import Layout from "../Base/Layout";
-import styles, { layout } from "../../style";
 import { apple, bill, google } from "../../assets";
+import styles, { layout } from "../../style";
+import Layout from "../Base/Layout";
 
 const Billing = () => {
   return (

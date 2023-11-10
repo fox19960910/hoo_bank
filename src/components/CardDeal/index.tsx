@@ -1,8 +1,7 @@
-import React from "react";
-import Layout from "../Base/Layout";
+import { card } from "../../assets";
 import styles, { layout } from "../../style";
 import Button from "../Base/Button";
-import { card } from "../../assets";
+import Layout from "../Base/Layout";
 
 const CardDeal = () => {
   return (
